@@ -1,0 +1,7 @@
+.cproject
+.project
+.settings
+*.mk
+makefile
+*.o
+*.d
